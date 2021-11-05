@@ -1,0 +1,1 @@
+{"m":2,"n":1,"patrones":4,"x":[[1.0,1.0],[1.0,0.0],[0.0,1.0],[0.0,0.0]],"yd":[[1.0],[0.0],[0.0],[0.0]],"u":[-0.3266598659731432],"w":[[0.3275862068965518],[0.32758620689655155]],"numeroIteraciones":1000,"errorMaximoPermitido":0.0,"tasaAprendizaje":0.05,"estado":false,"funcionActivacion":"rampa"}

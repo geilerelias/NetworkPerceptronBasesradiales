@@ -1,0 +1,1 @@
+{"m":2,"n":1,"patrones":4,"x":[[1.0,1.0],[1.0,0.0],[0.0,1.0],[0.0,0.0]],"yd":[[1.0],[0.0],[0.0],[0.0]],"u":[-7.968626876915877],"w":[[0.9550113839105785],[3.4018428543901496]],"numeroIteraciones":100,"errorMaximoPermitido":0.0,"tasaAprendizaje":1.0,"estado":true,"funcionActivacion":"escalon"}
